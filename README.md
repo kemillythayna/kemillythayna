@@ -1,12 +1,11 @@
-- 👋 olá, sou a kemilly thayna 
-- 👀 estou imteressada em aprender ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 olá, sou a kemilly thayna.
+- 👀 estou interessada em aprender como criar um repositorio.
+- 🌱 atualmente estou aprendendo a criar meu perfil no github.
+- 💞️  procuro colaborar com todas as atividades.
+- 📫 como entrar em contato comigo:pottemayer.kemilly@escola.pr.gov.br.
 
-<!---
-kemillythayna/kemillythayna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- ⚡ curiosidades> gosto de apender coisas novas,nãõ gosto muito de fazer amizades novas mais sou legal
+<!--
+--->kemillythayna/kemillythayna é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
+Você pode clicar no link Visualizar para ver suas alterações.
 --->
